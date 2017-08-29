@@ -1,0 +1,32 @@
+.jumbotron {
+    text-align: center; 
+    background-color: #FFFFFF; 
+    color: #000000;
+}
+
+.card {
+    width: 20rem;
+}
+
+.card-title {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.card-text {
+    margin: 1em;
+    text-align: center;
+}
+
+.card-img-top {
+    max-height: 180px;
+    width: auto;
+}
+
+.card-footer p {
+    font-size: 12px;
+}
+
+.card-footer a {
+    text-align: center;
+}

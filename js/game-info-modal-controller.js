@@ -58,7 +58,7 @@ var prototypeBlank = {
 var prototype1 = {
     name: "WallBall",
     description: "Fast paced and exciting game for 4 players. You'll be surprised at how simple, yet exhausting a ball game can be.",
-    credits: "Mads Falkenberg Sønderstrup,Kasper Christian Hansen,Per Josefsen and Rasmus Nagel",
+    credits: "Mads Falkenberg Sønderstrup, Kasper Christian Hansen, Per Josefsen, Rasmus Nagel, and Marie-Louise Alexius Sørensen",
     gamelink: "prototypes/prototype1/WallBall.zip"
 }
 

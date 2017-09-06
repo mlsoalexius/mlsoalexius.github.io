@@ -63,9 +63,9 @@ var prototype1 = {
 }
 
 var prototype2 = {
-    name: "Prototype 2",
-    description: "TBD",
-    credits: "TBD",
+    name: "SPACE BARBARIANS",
+    description: "Spectate-able 2-player figthing game. Engage in fast-paced combat in a 01:59 minutes.",
+    credits: "Victor Olsson, Jonas Christensen, Lorena Ciobanu, RarES Popa, and Marie-Louise Alexius Sørensen",
     gamelink: ""
 }
 

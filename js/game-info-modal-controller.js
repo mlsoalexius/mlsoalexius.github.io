@@ -57,22 +57,22 @@ var prototypeBlank = {
 
 var prototype1 = {
     name: "WallBall",
-    description: "Fast paced and exciting game for 4 players. You'll be surprised at how simple, yet exhausting a ball game can be.",
+    description: "Prototype 1 - Fast paced and exciting game for 4 players. You'll be surprised at how simple, yet exhausting a ball game can be.",
     credits: "Mads Falkenberg Sønderstrup, Kasper Christian Hansen, Per Josefsen, Rasmus Nagel, and Marie-Louise Alexius Sørensen",
     gamelink: "prototypes/prototype1/WallBall.zip"
 }
 
 var prototype2 = {
     name: "SPACE BARBARIANS",
-    description: "Spectate-able 2-player figthing game. Engage in fast-paced combat in a 01:59 minutes.",
+    description: "Prototype 2 - Spectate-able 2-player figthing game. Engage in fast-paced combat in 01:59 minutes.",
     credits: "Victor Olsson, Jonas Christensen, Lorena Ciobanu, Rares Popa, and Marie-Louise Alexius Sørensen",
     gamelink: "prototypes/prototype2/SpaceBarbarians.zip"
 }
 
 var prototype3 = {
-    name: "Prototype 3",
-    description: "TBD",
-    credits: "TBD",
+    name: "PACMAN AFTER DARK",
+    description: "Prototype 3 - Modification of existing game. Spin on the arcade classic, that implements stealth in a dark maze.",
+    credits: "Mads Engberg, Martin Sørensen, Sarah Grossi, Tamas Lakatos, and Marie-Louise Alexius Sørensen",
     gamelink: ""
 }
 

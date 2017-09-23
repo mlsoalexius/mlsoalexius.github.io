@@ -73,7 +73,7 @@ var prototype3 = {
     name: "PACMAN AFTER DARK",
     description: "Prototype 3 - Modification of existing game. Spin on the arcade classic, that implements stealth in a dark maze.",
     credits: "Mads Engberg, Martin Sørensen, Sarah Grossi, Tamas Lakatos, and Marie-Louise Alexius Sørensen",
-    gamelink: ""
+    gamelink: "prototypes/prototype3/PacManAfterDark.zip"
 }
 
 var prototype4 = {

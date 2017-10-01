@@ -80,7 +80,7 @@ var prototype4 = {
     name: "ANIMAL PUNTING",
     description: "Prototype 4 - Emotion to Game. Save the animals of this idyllic farm from the grizzly horrors of the spreading animal-disease.",
     credits: "Mads Falkenberg Sønderstrup, Lorena Ciobanu, Astrid Knappmann, Mathies Wiencke, and Marie-Louise Alexius Sørensen",
-    gamelink: "prototypes/prototype2/AnimalPunting.zip"
+    gamelink: "prototypes/prototype4/AnimalSaving.zip"
 }
 
 var prototype5 = {

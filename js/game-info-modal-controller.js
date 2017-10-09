@@ -84,10 +84,10 @@ var prototype4 = {
 }
 
 var prototype5 = {
-    name: "Prototype 5",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "SOLARSCAPE",
+    description: "Play as the small alien Dash, who must save themself from the death of their galaxy, by building a rocket-ship and flying off into space.",
+    credits: "Lorena Ciobanu, Luisa Zurlo, Nicola Zaltron, Rares Popa, Victor Olsson, and Marie-Louise Alexius Sørensen",
+    gamelink: "prototypes/prototype5/Solarscape.zip"
 }
 
 var prototype6 = {

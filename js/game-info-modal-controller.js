@@ -91,10 +91,10 @@ var prototype5 = {
 }
 
 var prototype6 = {
-    name: "Prototype 6",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "GRAVITY MATTERS",
+    description: "A fast-paced, one-button game, in which you control an alien on a mad dash through a foreign environment, trying to evade obstacles and pulling all the levers.",
+    credits: "Lorena Ciobanu, Mads Falkenberg Sønderstrup, Astrid Knappmann, Danyang Wang, and Marie-Louise Alexius Sørensen",
+    gamelink: "prototypes/prototype6/Gravitymatters.zip"
 }
 
 var prototype7 = {

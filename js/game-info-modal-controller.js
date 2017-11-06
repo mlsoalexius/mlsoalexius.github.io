@@ -98,10 +98,10 @@ var prototype6 = {
 }
 
 var prototype7 = {
-    name: "Prototype 7",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "BALLOON",
+    description: "A Vertical Jumping game, in which the player gently pushes their red balloon upwards, in a fever dream-like nightsky of piano music and rocekt ships.",
+    credits: "Rasmus Nagel & Marie-Louise Alexius Sørensen",
+    gamelink: "prototypes/prototype7/Balloons.zip"
 }
 
 var prototype8 = {

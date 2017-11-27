@@ -105,9 +105,9 @@ var prototype7 = {
 }
 
 var prototype8 = {
-    name: "Prototype 8",
-    description: "TBD",
-    credits: "TBD",
+    name: "Zinder",
+    description: "A digital local multiplayer, in which 4 players via controllers control a scientist determined to woo a zombie with present, and no be the last - and thusly eaten.",
+    credits: "Lorena Ciobanu, Mads Falkenberg Sønderstrup, Astrid Knappmann, Ida Broni Christensen, and Marie-Louise Alexius Sørensen",
     gamelink: ""
 }
 
